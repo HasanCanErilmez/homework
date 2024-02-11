@@ -1,0 +1,35 @@
+Postman, ThunderClient ve RestClient hepsi HTTP ve REST API'lerini test etmek, geliştirmek ve belgelendirmek için kullanılan araçlardır.
+
+Postman: Postman, en popüler API geliştirme araçlarından biridir.
+API'leri test etmek, belgelendirmek, paylaşmak ve otomatikleştirmek için kullanılır.
+Kullanıcı dostu arayüzü sayesinde, HTTP isteklerini kolayca oluşturabilir ve yanıtları görüntüleyebilirsiniz.
+
+Postman'i indirin ve yükleyin.
+Postman'i açın ve yeni bir koleksiyon oluşturun veya var olan bir koleksiyonu açın.
+İstekleri oluşturmak için "+" simgesine tıklayın ve HTTP metodunu, URL'yi ve gerekirse başlık ve gövde bilgilerini girin.
+İsteği göndermek için "Send" (Gönder) düğmesine tıklayın.
+Yanıtı gözlemleyin ve gerektiğinde isteği düzenleyin veya tekrar gönderin.
+Test senaryoları oluşturmak ve API belgelerini oluşturmak için Postman'in sağladığı diğer özellikleri kullanın.
+
+ThunderClient: ThunderClient, Visual Studio Code için bir eklentidir ve REST API'lerini test etmek için kullanılır.
+Postman gibi, HTTP isteklerini oluşturabilir, yanıtları görüntüleyebilir ve API'lerinizin performansını test edebilirsiniz.
+
+Visual Studio Code'u açın ve ThunderClient eklentisini yükleyin.
+"ThunderClient" sekmesine geçin.
+Yeni bir dosya oluşturun veya var olan bir dosyayı açın.
+İstekleri oluşturmak için YAML formatında isteklerinizi tanımlayın, ardından "Send Request" (İsteği Gönder) düğmesine tıklayarak isteği gönderin.
+Yanıtı gözlemleyin ve gerektiğinde isteği düzenleyin veya tekrar gönderin.
+Test senaryoları oluşturmak için ThunderClient'in sağladığı diğer özellikleri kullanın.
+
+RestClient: RestClient de bir REST API test aracıdır.
+Visual Studio Code üzerinde çalışır ve HTTP isteklerini gönderip yanıtları almak için kullanılır.
+Kullanıcı dostu bir arayüze sahiptir ve çeşitli HTTP metodlarını destekler.
+
+Visual Studio Code'u açın ve RestClient eklentisini yükleyin.
+".http" veya ".rest" uzantılı bir dosya oluşturun.
+İstekleri oluşturmak için dosyaya HTTP formatında istekleri tanımlayın.
+İstekleri göndermek için her isteğin üzerine tıklayın veya isteklerinizi seçin ve "Send Request" (İsteği Gönder) düğmesine tıklayın.
+Yanıtı gözlemleyin ve gerektiğinde isteği düzenleyin veya tekrar gönderin.
+Test senaryoları oluşturmak için RestClient'in sağladığı diğer özellikleri kullanın.
+
+Bu araçlar genellikle geliştiricilerin API'leri hızlı ve etkili bir şekilde test etmelerine, hata ayıklamalarına ve belgelendirmelerine yardımcı olur.
